@@ -1,8 +1,18 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
+import {docsearchPlugin } from '@vuepress/plugin-docsearch'
 
 export default defineUserConfig({
   base: '/r4-blog/',
+
+  plugins: [
+    docsearchPlugin({
+      apiKey: "",
+      indexName: "",
+      appId: 'YOUR_APP_ID',
+      // 配置项
+    }),
+  ],
 
   locales: {
     "/": {

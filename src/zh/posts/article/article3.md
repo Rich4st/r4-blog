@@ -3,7 +3,6 @@ icon: edit
 date: 2022-06-02
 category:
   - Python
-  - fastAPI
 tag:
   - Python
 ---
@@ -69,6 +68,7 @@ INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 ```
 
 该行显示了你的应用在本机所提供服务的URL地址。
+
 
 ---
 

@@ -16,14 +16,14 @@ export const en = sidebar({
           children: ["article1"],
         },
         {
-          text: "TypeScript",
+          text: "Vue",
           icon: "note",
           collapsable: true,
           prefix: "article/",
           children: ["article2"],
         },
         {
-          text: "FastApi",
+          text: "Python",
           icon: "note",
           collapsable: true,
           prefix: "article/",

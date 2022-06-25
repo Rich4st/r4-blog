@@ -16,12 +16,12 @@ export const en = navbar([
         ],
       },
       {
-        text: "TypeScript",
+        text: "Vue",
         icon: "edit",
         prefix: "article/",
         children: [
           {
-            text: "Article 2",
+            text: "LogicFlow",
             icon: "edit",
             link: "article2",
           },
