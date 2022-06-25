@@ -25,6 +25,11 @@ export const en = navbar([
             icon: "edit",
             link: "article2",
           },
+          {
+            text: "VuePress2",
+            icon: "edit",
+            link: "vuepress2",
+          },
         ],
       },
       {

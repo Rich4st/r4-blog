@@ -20,7 +20,7 @@ export const zh = sidebar({
           icon: "note",
           collapsable: true,
           prefix: "article/",
-          children: ["article2"],
+          children: ["article2","vuepress2"],
         },
         {
           text: "Python",
