@@ -61,14 +61,6 @@ ERROR:    Error loading ASGI app. Could not import module "main".
 INFO:     Stopping reloader process [10320]
 ```
 
-> <font size=6>📝</font> **NOTE**
->
-> `uvicorn main:app --reload` 命令含义如下:
->
-> * `main`:  `main.py`文件
-> * `app`: 在`main.py`文件中通过 `app = FastAPI()` 创建的对象
-> * `--reload`：让服务器在更新代码后重新启动。热更新
-
 运行成功后，在输出中会有下面这样一行信息：
 
 ```powershell
