@@ -5,7 +5,6 @@ category:
   - CategoryA
 tag:
   - tag A
-  - tag B
 ---
 
 # Article 1

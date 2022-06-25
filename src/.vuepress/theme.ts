@@ -3,7 +3,7 @@ import * as navbar from "./navbar";
 import * as sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  // hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
 
   author: {
     name: "Rich4$t",
@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/Rich4st/r4-blog",
 
   docsDir: "demo/src",
 
@@ -22,16 +22,16 @@ export default hopeTheme({
 
   blog: {
     medias: {
-      Discord: "https://example.com",
-      Email: "https://example.com",
-      Facebook: "https://example.com",
-      GitHub: "https://example.com",
-      Gmail: "https://example.com",
-      Instagram: "https://example.com",
-      QQ: "https://example.com",
-      Twitter: "https://example.com",
-      Wechat: "https://example.com",
-      Youtube: "https://example.com",
+      Discord: "https://discord.com/channels/953903655768174602/953903655768174604",
+      Email: "https://mail.qq.com/",
+      Facebook: "https://www.facebook.com/profile.php?id=100027659560342",
+      GitHub: "https://github.com/Rich4st",
+      Gmail: "https://gmail.com",
+      Instagram: "https://www.instagram.com/rich4st/",
+      QQ: "http://wpa.qq.com/msgrd?v=3&uin=2357823678&site=qq&menu=yes",
+      Twitter: "https://twitter.com/elonmusk",
+      Wechat: "http://182.61.149.102/Rich4st.png",
+      Youtube: "https://www.youtube.com/channel/UCQmpqrvhdD6UsTmw87hxvlQ",
     },
   },
 
@@ -48,7 +48,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "A Front-End Developer",
         intro: "/intro.html",
       },
     },
@@ -98,25 +98,13 @@ export default hopeTheme({
       repoId: "R_kgDOG_Pt2A",
       category: "Announcements",
       categoryId: "DIC_kwDOG_Pt2M4COD69",
-
-      /**
-       * Using Twikoo
-       */
-      // provider: "Twikoo",
-      // envId: "https://twikoo.ccknbc.vercel.app",
-
-      /**
-       * Using Waline
-       */
-      // provider: "Waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
     },
 
     mdEnhance: {
       enableAll: false,
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
+      // presentation: {
+      //   plugins: ["highlight", "math", "search", "notes", "zoom"],
+      // },
     },
   },
 });

@@ -22,6 +22,13 @@ export const zh = sidebar({
           prefix: "article/",
           children: ["article2"],
         },
+        {
+          text: "FastApi",
+          icon: "note",
+          collapsable: true,
+          prefix: "article/",
+          children: ["article3"],
+        },
       ],
     },
   ],

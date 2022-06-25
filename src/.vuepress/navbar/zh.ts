@@ -27,6 +27,18 @@ export const zh = navbar([
           },
         ],
       },
+      {
+        text: "Python",
+        icon: "edit",
+        prefix: "article/",
+        children: [
+          {
+            text: "FastApi",
+            icon: "edit",
+            link: "article3",
+          },
+        ],
+      },
     ],
   },
 ]);
