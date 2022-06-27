@@ -30,6 +30,11 @@ export const zh = navbar([
             icon: "edit",
             link: "vuepress2",
           },
+          {
+            text: "OpenLayers",
+            icon: "edit",
+            link: "OpenLayers",
+          },
         ],
       },
       {

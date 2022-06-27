@@ -20,7 +20,7 @@ export const en = sidebar({
           icon: "note",
           collapsable: true,
           prefix: "article/",
-          children: ["article2","vuepress2"],
+          children: ["article2","vuepress2","OpenLayers"],
         },
         {
           text: "Python",
