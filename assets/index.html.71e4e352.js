@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-43d7543a","path":"/category/vuepress/","title":"VuePress Category","lang":"en-US","frontmatter":{"title":"VuePress Category","blog":{"type":"category","name":"VuePress","key":"category"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{e as data};

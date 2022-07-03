@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8011a2ea","path":"/category/openlayers/","title":"OpenLayers Category","lang":"en-US","frontmatter":{"title":"OpenLayers Category","blog":{"type":"category","name":"OpenLayers","key":"category"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{e as data};

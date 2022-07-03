@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c984986e","path":"/category/fastapi/","title":"fastAPI Category","lang":"en-US","frontmatter":{"title":"fastAPI Category","blog":{"type":"category","name":"fastAPI","key":"category"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{t as data};
