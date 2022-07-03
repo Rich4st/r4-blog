@@ -35,6 +35,11 @@ export const zh = navbar([
             icon: "edit",
             link: "OpenLayers",
           },
+          {
+            text: "Vue开发移动端",
+            icon: "edit",
+            link: "postcss-pxtoviewport",
+          },
         ],
       },
       {

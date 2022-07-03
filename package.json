@@ -4,9 +4,9 @@
   "description": "A project of vuepress-theme-hope",
   "license": "MIT",
   "scripts": {
+    "docs:dev": "vuepress dev src",
     "docs:build": "vuepress build src",
     "docs:clean-dev": "vuepress dev src --clean-cache",
-    "docs:dev": "vuepress dev src",
     "deploy": "bash deploy-docs.sh"
   },
   "devDependencies": {
